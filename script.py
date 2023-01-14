@@ -16,7 +16,7 @@ print()
 
 print("     \033[1m\033[36mTool Name       \033[32m: \033[33mWater_Notifier ")
 print("     \033[1m\033[36mAuthor_Name     \033[32m: \033[33mMandeep Malakar ")
-print("     \033[1m\033[36mYouTube_Channel \033[32m: \033[33mMathematical Program")
+print("     \033[1m\033[36mYouTube_Channel \033[32m: \033[33mTagda Coder")
 print("     \033[1m\033[36mCountry         \033[32m: \033[33mIndia")
 print("     \033[1m\033[36mState           \033[32m: \033[33mJharkhand")
 print()
